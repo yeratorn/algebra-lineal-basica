@@ -6,4 +6,5 @@ Algebra Lineal Basica
 VERSIONES
 
 v0 - Texto Inicial, Todos los Caps con Ejercicios, Gran Parte de los Teoremas sin Demostracion
+
 v0.1 - Se corrigen algunos errores y se añade indice de conceptos. Gran Parte de los Teoremas sin Demostracion
